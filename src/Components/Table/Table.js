@@ -22,6 +22,7 @@ function TableData() {
             })
 
     }
+    
 
     return (
         <div className='App'>
